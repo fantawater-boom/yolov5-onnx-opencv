@@ -1,0 +1,2 @@
+# yolov5-onnx-opencv
+一个菜鸡的yolo学习之路，使用opencv推理onnx，里面的best做的是一个岩石裂缝识别的模型，从模型训练到onnx的导出以及opencv的推理都涵盖，参考了许多GIT上的开源项目，仅供学习娱乐
